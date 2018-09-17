@@ -3,17 +3,18 @@ See the [topic index](https://slu-soc5050.github.io/topic-index/) and the [packa
 
 ## Key Topics
 
-*
+* Bayes' Theorem
+* Probabiliy
+* Probability operations
 
-## Key Tools
+## Key Tools (review only)
 ### `R` Packages
 
-* 
+* `dplyr`
+* `reprex`
 
 ### Course Tools
 
+* Git
+* GitHub
 * `R`
-
-### Outside Tools
-
-*

@@ -3,21 +3,5 @@ The following packages are required for this lecture. See the [package index](ht
 
 ### `tidyverse`
 
-*
-
-### Statistics
-
-*
-
-### Literate Programming
-
-* `knitr` - create documents from R notebooks
-* `rmarkdown` - write in Markdown syntax
-
-### Project Organization
-
-* `here` - manage file paths
-
-### Other packages
-
-*
+* `dplyr`
+* `reprex`
